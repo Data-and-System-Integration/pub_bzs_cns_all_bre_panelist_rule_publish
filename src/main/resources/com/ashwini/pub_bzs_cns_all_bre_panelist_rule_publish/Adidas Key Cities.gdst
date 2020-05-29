@@ -134,7 +134,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>ag1</valueString>
+        <valueString>rule_7</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -169,7 +169,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>ag1</valueString>
+        <valueString>rule_7</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
