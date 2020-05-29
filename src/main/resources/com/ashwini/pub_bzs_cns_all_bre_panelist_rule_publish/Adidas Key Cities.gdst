@@ -126,7 +126,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1235003343;1235003624</valueString>
+        <valueString>1235003343,1235003624</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
