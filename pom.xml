@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ashwini</groupId>
   <artifactId>pub_bzs_cns_all_bre_panelist_rule_publish</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>kjar</packaging>
   <name>pub_bzs_cns_all_bre_panelist_rule_publish</name>
   <description></description>
